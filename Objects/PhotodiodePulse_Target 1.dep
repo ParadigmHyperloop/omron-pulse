@@ -1,0 +1,116 @@
+Dependencies for Project 'PhotodiodePulse', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x57C33DDD)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Jeewan\Dropbox\HyperloopADCBoard\PhotodiodePulse\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include-D__UVISION_VERSION="520" -D_RTE_ -D__SAMD11D14AM__-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\samd11.h)(0x5432C982)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\samd11d14am.h)(0x551468DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm0plus.h)(0x5736688E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\system_samd11.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\ac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\adc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dmac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dsu.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\eic.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\evsys.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\gclk.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\hmatrixb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\mtb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\nvmctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\pac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\pm.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\port.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\rtc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\sercom.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\sysctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\tc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\tcc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\usb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\wdt.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\ac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\adc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dmac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dsu.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\eic.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\evsys.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\gclk.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sbmatrix.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\mtb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\nvmctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pm.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\port.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\rtc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sysctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tc1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tc2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tcc0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\usb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\wdt.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\pio\samd11d14am.h)(0x551468DC)
+F (RTE\Device\ATSAMD11D14AM\startup_SAMD11.s)(0x5432C982)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Jeewan\Dropbox\HyperloopADCBoard\PhotodiodePulse\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "__SAMD11D14AM__ SETA 1"--list .\listings\startup_samd11.lst --xref -o .\objects\startup_samd11.o --depend .\objects\startup_samd11.d)
+F (RTE\Device\ATSAMD11D14AM\system_samd11.c)(0x551468DC)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Jeewan\Dropbox\HyperloopADCBoard\PhotodiodePulse\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include-D__UVISION_VERSION="520" -D_RTE_ -D__SAMD11D14AM__-o .\objects\system_samd11.o --omf_browse .\objects\system_samd11.crf --depend .\objects\system_samd11.d)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\samd11.h)(0x5432C982)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\samd11d14am.h)(0x551468DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FF15CE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm0plus.h)(0x5736688E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x57360196)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\system_samd11.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\ac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\adc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dmac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\dsu.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\eic.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\evsys.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\gclk.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\hmatrixb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\mtb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\nvmctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\pac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\pm.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\port.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\rtc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\sercom.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\sysctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\tc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\tcc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\usb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\component\wdt.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\ac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\adc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dmac.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\dsu.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\eic.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\evsys.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\gclk.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sbmatrix.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\mtb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\nvmctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pac2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\pm.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\port.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\rtc.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sercom2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\sysctrl.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tc1.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tc2.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\tcc0.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\usb.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\instance\wdt.h)(0x551468DC)
+I (C:\Keil_v5\ARM\PACK\Keil\SAMD11_DFP\1.1.0\Device\SAMD11\Include\pio\samd11d14am.h)(0x551468DC)
